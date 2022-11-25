@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,c#)
 
 <!---
 cphrDot/cphrDot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
